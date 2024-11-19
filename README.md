@@ -14,10 +14,8 @@ A social platform where users can share their favorite places with images, locat
    - Login and signup features secured with JWT tokens for session management.
 
 ## Tech Stack
-### Frontend
-- React.js: For building a responsive and dynamic user interface.
 
-### Backend
+- React.js: For building a responsive and dynamic user interface.
 - Node.js: For handling the server-side logic.
 - Express.js: A web application framework for managing routes and APIs.
 - MongoDB: As the database to store user and place information.
